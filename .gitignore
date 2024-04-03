@@ -126,6 +126,7 @@ celerybeat.pid
 env/
 venv/
 ml_prj/
+artifacts/
 ENV/
 env.bak/
 venv.bak/
